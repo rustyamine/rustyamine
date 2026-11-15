@@ -1,5 +1,8 @@
 ## Hi there 👋
+# I'm Amine 👋
 
+Second-year computer engineering student at USTHB, Algiers.
+I like Linux, self-hosting, and building things for the web.
 <!--
 **rustyamine/rustyamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
